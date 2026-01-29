@@ -1,0 +1,7 @@
+{
+    "input_folder": "./fotos",
+    "output_folder": "./converted",
+    "output_format": "jpg",
+    "quality": 95,
+    "delete_original": false
+}
