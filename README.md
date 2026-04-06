@@ -4,6 +4,12 @@ Konvertiert HEIC/HEIF-Dateien (z.B. von iPhone) in JPG oder PNG.
 
 ## Schnellstart (Windows)
 
+### GUI (empfohlen)
+
+**`run_gui.bat`** doppelklicken - Eingabe-/Ausgabeordner, Format, Qualität und Fortschritt direkt in der Oberfläche.
+
+### Kommandozeile
+
 1. **HEIC-Dateien** in den `fotos/` Ordner legen
 2. **`run.bat`** doppelklicken
 3. Konvertierte Bilder befinden sich in `converted/`
