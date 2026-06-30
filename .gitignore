@@ -20,3 +20,6 @@ converted/
 # OS
 .DS_Store
 Thumbs.db
+
+# Projekt-Analyse (nicht committen)
+_analyse/
